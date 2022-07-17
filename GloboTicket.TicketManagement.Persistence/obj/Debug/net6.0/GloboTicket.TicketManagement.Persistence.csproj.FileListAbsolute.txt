@@ -1,0 +1,17 @@
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.deps.json
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.dll
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Persistence.pdb
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.dll
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Application.pdb
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.csproj.AssemblyReference.cache
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.AssemblyInfoInputs.cache
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.AssemblyInfo.cs
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.csproj.CopyComplete
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.dll
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\refint\GloboTicket.TicketManagement.Persistence.dll
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\GloboTicket.TicketManagement.Persistence.pdb
+D:\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Persistence\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.Persistence.dll
