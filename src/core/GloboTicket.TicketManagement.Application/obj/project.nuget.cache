@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oiwaDnuZGcI2KLb2nqvsQHLlb2Ly1ioeAE7NIEa0ts8ShV7wL5b8q36watK9RGXa5AiLIGGjVqzsNVfng3sLYQ==",
+  "dgSpecHash": "2M4auWlH4dqWeSCKWeXj92XsKGYLOPf3lnsx6zJtxkumVJllK6ufF+RndCIp2DgW4RpkfOnXCSlfsl0Pq6+F2g==",
   "success": true,
   "projectFilePath": "D:\\GloboTicket.TicketManagement\\src\\core\\GloboTicket.TicketManagement.Application\\GloboTicket.TicketManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RS\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\RS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\RS\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\RS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
     "C:\\Users\\RS\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\RS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\RS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
