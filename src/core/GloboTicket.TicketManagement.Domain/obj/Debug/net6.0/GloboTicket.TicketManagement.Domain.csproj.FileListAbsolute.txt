@@ -1,0 +1,12 @@
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.deps.json
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\bin\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.csproj.AssemblyReference.cache
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.dll
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\refint\GloboTicket.TicketManagement.Domain.dll
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\GloboTicket.TicketManagement.Domain.pdb
+D:\GloboTicket.TicketManagement\src\core\GloboTicket.TicketManagement.Domain\obj\Debug\net6.0\ref\GloboTicket.TicketManagement.Domain.dll
